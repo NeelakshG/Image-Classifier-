@@ -27,5 +27,4 @@ Deep learning models are often overconfident when exposed to data outside their 
 - Convolutional Neural Networks (CNNs)  
 - NumPy, Matplotlib  
 
-## Project Structure
 
